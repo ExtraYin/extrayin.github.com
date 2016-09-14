@@ -1,0 +1,93 @@
+.header {
+    border-bottom: 5px solid #B53D25;
+    min-height: 100%;
+    display: table;
+    width: 100%;
+    background: white;
+    color: #444;
+}
+
+.header--wrap {
+    display: table-cell;
+    vertical-align: middle
+}
+
+.header_info {
+    display: inline-block;
+    position: relative;
+    width: 40%;
+    left: 10%
+}
+
+.header_name {
+    font-size: 5em;
+    font-weight: 400;
+    margin: 0 0 10px
+}
+
+.header_intro {
+    font-size: 2em;
+    line-height: 1.4em;
+    margin: 0
+}
+
+.header_social {
+	margin-top: 3%;
+	margin-left: 5%;
+    font-size: 2em;
+    line-height: 35px;
+    padding: 0
+}
+
+
+.header_avatar{
+	max-width:40%;
+	width:38%;
+	position:absolute;
+	bottom:0;
+	right:5%;
+	opacity:1;
+}
+
+.projects{
+    margin-top: -20px;
+    margin-left: -20px;
+    margin-right: -20px;
+    background-color: #444;
+}
+
+.split-quote{
+    padding-top: 1%;
+    padding-bottom: 1%;
+    text-align: center;
+}
+
+.social_link,
+.social_link:active,
+.social_link:hover {
+    background-color: transparent;
+    color: rgba(62,62,62,.7);
+}
+
+.project_link,
+.project_link:active,
+.project_link:hover {
+    color:white;
+}
+
+.project-img-wrapper {
+    background-color: white;
+}
+
+
+body {
+    color: #FFF;
+    font-family: 'Architects Daughter';
+    margin: 0 auto
+}
+
+html {
+    display: block;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%
+}
