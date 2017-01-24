@@ -1,1 +1,1 @@
-<a href="http://yidayin.me/">My Homepage</a>
+Visit: <a href="http://yidayin.me/">My Homepage</a>
